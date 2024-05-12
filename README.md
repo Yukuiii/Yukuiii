@@ -12,7 +12,7 @@
   <!-- profile logo 个人资料徽标 -->
   <div align="center">
     <a href="https://blog.yukuii.cn"><img src="https://img.shields.io/badge/Website-博客-red" /></a>&emsp;
-    <img src="https://komarev.com/ghpvc/?username=Lorin-github&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
+    <img src="https://komarev.com/ghpvc/?username=Yukuiii&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
   </div>
 <p><b>Technology has the power to make the world a better place</b></p>
 </div>
