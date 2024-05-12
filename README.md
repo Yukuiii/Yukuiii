@@ -11,7 +11,8 @@
 
   <!-- profile logo 个人资料徽标 -->
   <div align="center">
-    <a href="https://juejin.cn/user/3257207932075799"><img src="https://img.shields.io/badge/Website-博客-red" /></a>&emsp;
+    <a href="https://blog.yukuii.cn"><img src="https://img.shields.io/badge/Website-博客-red" /></a>&emsp;
+    
 <!--     <a href="https://space.bilibili.com/23473180/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
     <a href="https://blog.csdn.net/qq_35578171/"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
     <a href="https://www.zhihu.com/people/zhjunqiu"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp; -->
@@ -24,6 +25,8 @@
 
 
 ### 👋Hi I am Yukuii(苏小铭）
+-😄一位全栈攻城狮，Vue、React、Springboot、Next、Docker、Node....
+-👀喜欢倒腾各种项目
 
 
 <!--
