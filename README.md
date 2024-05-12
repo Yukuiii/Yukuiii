@@ -26,8 +26,9 @@
 
 
 ### 👋Hi I am Yukuii(苏小铭）
-- 😄一位全栈攻城狮，Vue、React、Springboot、Next、Docker、Node....
-- 👀喜欢倒腾各种项目
+- 😄一位全栈攻城狮，**Vue、React、Springboot、Next、Docker、Node....**
+- 👀喜欢倒腾各种项目，热爱开源
+- ⚡资深白嫖用户，善于利用各种开源技术进行白嫖
 
 
 <!--
