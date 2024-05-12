@@ -17,6 +17,7 @@
     <a href="https://blog.csdn.net/qq_35578171/"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
     <a href="https://www.zhihu.com/people/zhjunqiu"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp; -->
     <!-- visitor statistics logo 访问量统计徽标 -->
+    
     <img src="https://komarev.com/ghpvc/?username=Lorin-github&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
   </div>
 <p><b>Technology has the power to make the world a better place</b></p>
@@ -25,8 +26,8 @@
 
 
 ### 👋Hi I am Yukuii(苏小铭）
--😄一位全栈攻城狮，Vue、React、Springboot、Next、Docker、Node....
--👀喜欢倒腾各种项目
+- 😄一位全栈攻城狮，Vue、React、Springboot、Next、Docker、Node....
+- 👀喜欢倒腾各种项目
 
 
 <!--
