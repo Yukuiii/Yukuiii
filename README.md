@@ -23,8 +23,7 @@
 
 
 
-### Hi👋 I am Yukuii(苏小铭）
-### Hi! Nice to meet you!
+### 👋Hi I am Yukuii(苏小铭）
 
 
 <!--
