@@ -28,7 +28,7 @@
 
 
 
-<div align="center" style="margin-top:20px;">
+<div align="center" style="margin-top: 10px;">
 <img src="https://skillicons.dev/icons?i=idea,vscode,git,docker,html,css,java,js,mysql,vue,supabase,react" alt="tools" />
 </div>
 
