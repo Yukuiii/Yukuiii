@@ -33,6 +33,14 @@
 <img src="https://skillicons.dev/icons?i=idea,vscode,git,docker,html,css,java,js,nodejs,mysql,vue,supabase,react" alt="tools" />
 </div>
 
+<div align="center">
+<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="js" width="81" style="width: 81px; height: 81px; margin-right: 27px; margin-bottom: 0px;" />
+<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="java" width="81" style="width: 81px; height: 81px; margin-right: 27px; margin-bottom: 0px;" />
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="mysql" width="81" style="width: 81px; height: 81px; margin-right: 27px; margin-bottom: 0px;" />
+<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="python" width="81" style="width: 81px; height: 81px; margin-right: 27px; margin-bottom: 0px;" />
+<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="ts" width="81" style="width: 81px; height: 81px; margin-right: 27px; margin-bottom: 0px;" />
+</div>
+
 <!--
 
 **Yukuiii/Yukuiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
