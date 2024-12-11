@@ -27,9 +27,10 @@
 - ⚡资深白嫖用户，善于利用各种开源技术进行白嫖
 
 
+---
 
-<div align="center" style="margin-top: 10px;">
-<img src="https://skillicons.dev/icons?i=idea,vscode,git,docker,html,css,java,js,mysql,vue,supabase,react" alt="tools" />
+<div align="center">
+<img src="https://skillicons.dev/icons?i=idea,vscode,git,docker,html,css,java,js,nodejs,mysql,vue,supabase,react" alt="tools" />
 </div>
 
 <!--
