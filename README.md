@@ -2,7 +2,7 @@
   <!-- dynamic typing effect 动态打字效果 -->
   <div align="center">
     <a href="https://yukuii.cn/">
-      <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&pause=1000&width=435&lines=println(%22Hello%2C%20World%22);Yukuii 苏小铭&center=true&size=27" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&pause=1000&width=435&lines=println(%22Hello%2C%20World%22);我是 Yukuii 苏小铭&center=true&size=27" alt="Typing SVG" />
     </a>
   </div>
 
@@ -26,6 +26,12 @@
 - 👀喜欢倒腾各种项目，热爱开源
 - ⚡资深白嫖用户，善于利用各种开源技术进行白嫖
 
+
+---
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=idea,vscode,git,docker,html,css,java,js,mysql,vue,supabase,react" alt="tools" />
+</div>
 
 <!--
 
