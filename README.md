@@ -19,7 +19,7 @@
 
 ---
 
-<div><img align="right" height="160" src="https://github-stats.liuli.lol/api?username=Yukuiii&show_icons=true&icon_color=fb7299&text_color=fb7299&bg_color=ffffff&hide_title=true&locale=cn" /></div>
+<div><img align="right" height="160" src="https://github-stats.aika.dev/api?username=Yukuiii&show_icons=true&icon_color=fb7299&text_color=fb7299&bg_color=ffffff&hide_title=true&locale=cn" /></div>
 
 ### 👋Hi I am Yukuii(苏小铭）<img height="32" width="32" src="https://ae01.alicdn.com/kf/Scf5d6aa4808348f1953a6dbada55d6aeV.png"/>
 - 😄一位全栈攻城狮，**Vue、React、Springboot、Next、Docker、Node....**
