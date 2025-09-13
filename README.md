@@ -3,6 +3,7 @@
   <div align="center">
     <a href="https://yukuii.cn/">
       <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&pause=1000&width=435&lines=println(%22Hello%2C%20World%22);我是 Yukuii 苏小铭&center=true&size=27" alt="Typing SVG" />
+      [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&pause=1000&width=435&lines=println(%22Hello%2C%20World%22)我是 Yukuii 苏小铭&center=true&size=27](https://git.io/typing-svg)
     </a>
   </div>
 
