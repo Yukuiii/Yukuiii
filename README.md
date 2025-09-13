@@ -2,7 +2,7 @@
   <!-- dynamic typing effect 动态打字效果 -->
   <div align="center">
     <a href="https://yukuii.cn/">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify&duration=2000&pause=1000&vCenter=true&width=435&lines=Hello+Wrold;%E6%88%91%E6%98%AFYukuiii" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=Hello+Wrold;%E6%88%91%E6%98%AFYukuiii" alt="Typing SVG" /></a>
     </a>
   </div>
 
