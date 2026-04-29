@@ -43,7 +43,7 @@
 
 ---
 <div>
-  ![TokenBoard](https://tokenboard.chaosyn.com/api/public/yukuiii.svg)
+  <img src="https://tokenboard.chaosyn.com/api/public/yukuiii.svg" />
 </div>
 
 <!--
