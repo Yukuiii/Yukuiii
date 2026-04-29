@@ -42,7 +42,7 @@
 </div>
 
 ---
-<div>
+<div align="center">
   <img src="https://tokenboard.chaosyn.com/api/public/yukuiii.svg" />
 </div>
 
