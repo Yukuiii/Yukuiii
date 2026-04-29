@@ -41,6 +41,11 @@
 <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="ts" width="81" style="width: 81px; height: 81px; margin-right: 27px; margin-bottom: 0px;" />
 </div>
 
+---
+<div>
+  ![TokenBoard](https://tokenboard.chaosyn.com/api/public/yukuiii.svg)
+</div>
+
 <!--
 
 **Yukuiii/Yukuiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
